@@ -1,1 +1,2 @@
 # Movie-Recommendation-System
+Developed a movie recommendation system using Python, leveraging libraries such as pandas, difflib, and scikit-learn. The system recommends movies based on user input by calculating the similarity between movies using TF-IDF vectorization and cosine similarity. The program identifies close matches for user-inputted movie titles and suggests top 30 similar movies ranked by relevance. The project demonstrates skills in data processing, feature extraction, and implementing recommendation algorithms.
